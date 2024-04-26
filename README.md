@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arpstha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any small project I can put my input in.
-- 📫 How to reach me shrestharp88@gmail.com
+- 👋 Hi, I’m Ram
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python and AI Engineering
+- 💞️ I’m looking to enhance my understanding of artificial intelligence (AI), Retrieval Augmentation Generation (RAG), Large Language Model (LLM) and Machine Learning (ML)
+- 📫 You can reach me on: shrestharp88@gmail.com
 
 <!---
 arpstha/arpstha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
